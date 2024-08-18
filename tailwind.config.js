@@ -8,7 +8,15 @@ export default {
     backgroundColor: theme => ({
       ...theme('colors'),
     }),
-    extend: {},
+    extend: {
+      fontFamily: {
+        'open-sans': ['Open Sans', 'sans-serif'],
+        'poppins': ['Poppins', 'sans-serif'],
+      },
+      screens: {
+        xs: '375px',
+      }
+    },
   },
   plugins: [],
 }
