@@ -1,4 +1,4 @@
-# Title
+# Huddle landing page with a single introductory section
 
 <!-- add description of project -->
 
